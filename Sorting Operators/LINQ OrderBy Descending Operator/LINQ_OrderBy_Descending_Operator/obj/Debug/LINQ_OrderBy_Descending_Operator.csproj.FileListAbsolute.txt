@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ OrderBy Descending Operator\LINQ_OrderBy_Descending_Operator\bin\Debug\LINQ_OrderBy_Descending_Operator.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ OrderBy Descending Operator\LINQ_OrderBy_Descending_Operator\bin\Debug\LINQ_OrderBy_Descending_Operator.exe
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ OrderBy Descending Operator\LINQ_OrderBy_Descending_Operator\bin\Debug\LINQ_OrderBy_Descending_Operator.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ OrderBy Descending Operator\LINQ_OrderBy_Descending_Operator\obj\Debug\LINQ_OrderBy_Descending_Operator.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ OrderBy Descending Operator\LINQ_OrderBy_Descending_Operator\obj\Debug\LINQ_OrderBy_Descending_Operator.exe
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ OrderBy Descending Operator\LINQ_OrderBy_Descending_Operator\obj\Debug\LINQ_OrderBy_Descending_Operator.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ OrderBy Descending Operator\LINQ_OrderBy_Descending_Operator\obj\Debug\LINQ_OrderBy_Descending_Operator.csproj.AssemblyReference.cache

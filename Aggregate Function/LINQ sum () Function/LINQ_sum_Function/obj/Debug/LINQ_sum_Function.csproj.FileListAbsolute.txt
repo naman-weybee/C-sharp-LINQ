@@ -1,0 +1,6 @@
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ sum () Function\LINQ_sum_Function\bin\Debug\LINQ_sum_Function.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ sum () Function\LINQ_sum_Function\bin\Debug\LINQ_sum_Function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ sum () Function\LINQ_sum_Function\bin\Debug\LINQ_sum_Function.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ sum () Function\LINQ_sum_Function\obj\Debug\LINQ_sum_Function.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ sum () Function\LINQ_sum_Function\obj\Debug\LINQ_sum_Function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ sum () Function\LINQ_sum_Function\obj\Debug\LINQ_sum_Function.pdb

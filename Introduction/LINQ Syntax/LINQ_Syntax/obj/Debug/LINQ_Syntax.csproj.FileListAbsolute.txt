@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Syntax\LINQ_Syntax\bin\Debug\LINQ_Syntax.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Syntax\LINQ_Syntax\bin\Debug\LINQ_Syntax.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Syntax\LINQ_Syntax\bin\Debug\LINQ_Syntax.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Syntax\LINQ_Syntax\obj\Debug\LINQ_Syntax.csproj.AssemblyReference.cache
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Syntax\LINQ_Syntax\obj\Debug\LINQ_Syntax.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Syntax\LINQ_Syntax\obj\Debug\LINQ_Syntax.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Syntax\LINQ_Syntax\obj\Debug\LINQ_Syntax.pdb

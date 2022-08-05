@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Lambda Expression Syntax\LINQ_Lambda_Expression_Syntax\bin\Debug\LINQ_Lambda_Expression_Syntax.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Lambda Expression Syntax\LINQ_Lambda_Expression_Syntax\bin\Debug\LINQ_Lambda_Expression_Syntax.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Lambda Expression Syntax\LINQ_Lambda_Expression_Syntax\bin\Debug\LINQ_Lambda_Expression_Syntax.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Lambda Expression Syntax\LINQ_Lambda_Expression_Syntax\obj\Debug\LINQ_Lambda_Expression_Syntax.csproj.AssemblyReference.cache
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Lambda Expression Syntax\LINQ_Lambda_Expression_Syntax\obj\Debug\LINQ_Lambda_Expression_Syntax.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Lambda Expression Syntax\LINQ_Lambda_Expression_Syntax\obj\Debug\LINQ_Lambda_Expression_Syntax.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Lambda Expression Syntax\LINQ_Lambda_Expression_Syntax\obj\Debug\LINQ_Lambda_Expression_Syntax.pdb

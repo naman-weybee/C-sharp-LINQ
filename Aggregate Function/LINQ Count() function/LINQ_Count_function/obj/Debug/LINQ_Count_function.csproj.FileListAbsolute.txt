@@ -1,0 +1,6 @@
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Count() function\LINQ_Count_function\bin\Debug\LINQ_Count_function.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Count() function\LINQ_Count_function\bin\Debug\LINQ_Count_function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Count() function\LINQ_Count_function\bin\Debug\LINQ_Count_function.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Count() function\LINQ_Count_function\obj\Debug\LINQ_Count_function.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Count() function\LINQ_Count_function\obj\Debug\LINQ_Count_function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Count() function\LINQ_Count_function\obj\Debug\LINQ_Count_function.pdb

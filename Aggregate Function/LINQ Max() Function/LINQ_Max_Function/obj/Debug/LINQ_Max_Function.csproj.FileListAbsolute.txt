@@ -1,0 +1,6 @@
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Max() Function\LINQ_Max_Function\bin\Debug\LINQ_Max_Function.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Max() Function\LINQ_Max_Function\bin\Debug\LINQ_Max_Function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Max() Function\LINQ_Max_Function\bin\Debug\LINQ_Max_Function.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Max() Function\LINQ_Max_Function\obj\Debug\LINQ_Max_Function.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Max() Function\LINQ_Max_Function\obj\Debug\LINQ_Max_Function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\LINQ Max() Function\LINQ_Max_Function\obj\Debug\LINQ_Max_Function.pdb

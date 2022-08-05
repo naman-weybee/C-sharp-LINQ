@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\LINQ\Aggregate Function\LINQ Aggregate() Function\LINQ_Aggregate_Function\obj\Debug\LINQ_Aggregate_Function.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\Aggregate Function\LINQ Aggregate() Function\LINQ_Aggregate_Function\bin\Debug\LINQ_Aggregate_Function.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\Aggregate Function\LINQ Aggregate() Function\LINQ_Aggregate_Function\bin\Debug\LINQ_Aggregate_Function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\Aggregate Function\LINQ Aggregate() Function\LINQ_Aggregate_Function\bin\Debug\LINQ_Aggregate_Function.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\Aggregate Function\LINQ Aggregate() Function\LINQ_Aggregate_Function\obj\Debug\LINQ_Aggregate_Function.exe
+D:\.NET\C# Intermediate Concepts\LINQ\Aggregate Function\LINQ Aggregate() Function\LINQ_Aggregate_Function\obj\Debug\LINQ_Aggregate_Function.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\Aggregate Function\LINQ Aggregate() Function\LINQ_Aggregate_Function\obj\Debug\LINQ_Aggregate_Function.csproj.AssemblyReference.cache

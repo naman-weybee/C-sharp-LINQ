@@ -1,0 +1,6 @@
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ ThenBy Descending Operator\LINQ_ThenBy_Descending_Operator\bin\Debug\LINQ_ThenBy_Descending_Operator.exe.config
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ ThenBy Descending Operator\LINQ_ThenBy_Descending_Operator\bin\Debug\LINQ_ThenBy_Descending_Operator.exe
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ ThenBy Descending Operator\LINQ_ThenBy_Descending_Operator\bin\Debug\LINQ_ThenBy_Descending_Operator.pdb
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ ThenBy Descending Operator\LINQ_ThenBy_Descending_Operator\obj\Debug\LINQ_ThenBy_Descending_Operator.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ ThenBy Descending Operator\LINQ_ThenBy_Descending_Operator\obj\Debug\LINQ_ThenBy_Descending_Operator.exe
+D:\.NET\C# Intermediate Concepts\LINQ\Sorting Operators\LINQ ThenBy Descending Operator\LINQ_ThenBy_Descending_Operator\obj\Debug\LINQ_ThenBy_Descending_Operator.pdb
