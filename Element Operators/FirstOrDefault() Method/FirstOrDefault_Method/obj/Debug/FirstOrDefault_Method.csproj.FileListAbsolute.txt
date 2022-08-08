@@ -1,0 +1,8 @@
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\obj\Debug\FirstOrDefault_Method.csproj.AssemblyReference.cache
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\obj\Debug\FirstOrDefault_Method.csproj.SuggestedBindingRedirects.cache
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\obj\Debug\FirstOrDefault_Method.csproj.CoreCompileInputs.cache
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\bin\Debug\FirstOrDefault_Method.exe.config
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\bin\Debug\FirstOrDefault_Method.exe
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\bin\Debug\FirstOrDefault_Method.pdb
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\obj\Debug\FirstOrDefault_Method.exe
+D:\1\Element Operators\FirstOrDefault() Method\FirstOrDefault_Method\obj\Debug\FirstOrDefault_Method.pdb

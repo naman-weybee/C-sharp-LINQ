@@ -1,0 +1,8 @@
+D:\1\Element Operators\Single() Method\Single_Method\bin\Debug\Single_Method.exe.config
+D:\1\Element Operators\Single() Method\Single_Method\bin\Debug\Single_Method.exe
+D:\1\Element Operators\Single() Method\Single_Method\bin\Debug\Single_Method.pdb
+D:\1\Element Operators\Single() Method\Single_Method\obj\Debug\Single_Method.csproj.AssemblyReference.cache
+D:\1\Element Operators\Single() Method\Single_Method\obj\Debug\Single_Method.csproj.SuggestedBindingRedirects.cache
+D:\1\Element Operators\Single() Method\Single_Method\obj\Debug\Single_Method.csproj.CoreCompileInputs.cache
+D:\1\Element Operators\Single() Method\Single_Method\obj\Debug\Single_Method.exe
+D:\1\Element Operators\Single() Method\Single_Method\obj\Debug\Single_Method.pdb

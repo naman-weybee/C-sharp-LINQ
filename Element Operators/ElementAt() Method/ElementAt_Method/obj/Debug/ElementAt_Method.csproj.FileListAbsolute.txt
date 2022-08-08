@@ -1,0 +1,8 @@
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\bin\Debug\ElementAt_Method.exe.config
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\bin\Debug\ElementAt_Method.exe
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\bin\Debug\ElementAt_Method.pdb
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\obj\Debug\ElementAt_Method.csproj.AssemblyReference.cache
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\obj\Debug\ElementAt_Method.csproj.SuggestedBindingRedirects.cache
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\obj\Debug\ElementAt_Method.csproj.CoreCompileInputs.cache
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\obj\Debug\ElementAt_Method.exe
+D:\1\Element Operators\ElementAt() Method\ElementAt_Method\obj\Debug\ElementAt_Method.pdb

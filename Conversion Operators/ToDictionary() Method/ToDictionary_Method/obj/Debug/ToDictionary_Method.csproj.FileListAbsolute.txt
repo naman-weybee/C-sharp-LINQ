@@ -1,0 +1,8 @@
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\bin\Debug\ToDictionary_Method.exe.config
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\bin\Debug\ToDictionary_Method.exe
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\bin\Debug\ToDictionary_Method.pdb
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\obj\Debug\ToDictionary_Method.csproj.AssemblyReference.cache
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\obj\Debug\ToDictionary_Method.csproj.SuggestedBindingRedirects.cache
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\obj\Debug\ToDictionary_Method.csproj.CoreCompileInputs.cache
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\obj\Debug\ToDictionary_Method.exe
+D:\1\Conversion Operators\ToDictionary() Method\ToDictionary_Method\obj\Debug\ToDictionary_Method.pdb
